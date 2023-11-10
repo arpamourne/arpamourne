@@ -4,9 +4,9 @@
 
 <h3>Stats</h3>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jensen330&show_icons=true&theme=aura_dark)](https://github.com/arpamourne/) 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=arpamourne&show_icons=true&theme=aura_dark)](https://github.com/arpamourne/) 
 
-[![GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=Jensen330.readme.visitor-badge)](https://github.com/arpamourne/)
+[![GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=arpamourne.readme.visitor-badge)](https://github.com/arpamourne/)
 
 📨 Contact: jensen@arpamourne.com
 
